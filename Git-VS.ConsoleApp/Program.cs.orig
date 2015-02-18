@@ -10,8 +10,11 @@ namespace Git_VS.ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World !!!!");
+<<<<<<< HEAD
             Console.WriteLine("This is my first Git Program");
+=======
+            Console.WriteLine("Hello World !!!!");
+>>>>>>> develop
         }
     }
 }
