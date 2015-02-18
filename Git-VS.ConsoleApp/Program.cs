@@ -10,6 +10,7 @@ namespace Git_VS.ConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is my first Git Program");
         }
     }
 }
