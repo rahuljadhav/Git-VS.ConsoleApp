@@ -14,5 +14,10 @@ namespace Git_VS.ConsoleApp
             Console.WriteLine("This is my first Git Program");
             Console.WriteLine("This is issue 1");
         }
+
+        public string GetStr()
+        {
+            return "Hello Str";
+        }
     }
 }
