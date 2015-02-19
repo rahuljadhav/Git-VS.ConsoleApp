@@ -24,5 +24,10 @@ namespace Git_VS.ConsoleApp
         {
             return 10;
         }
+
+        public float GetFloat()
+        {
+            return 10;
+        }
     }
 }
