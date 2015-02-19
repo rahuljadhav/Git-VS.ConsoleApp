@@ -19,5 +19,10 @@ namespace Git_VS.ConsoleApp
         {
             return "Hello Str";
         }
+
+        public int GetInt()
+        {
+            return 10;
+        }
     }
 }
