@@ -29,5 +29,10 @@ namespace Git_VS.ConsoleApp
         {
             return 10;
         }
+
+        public double GetDouble()
+        {
+            return 10;
+        }
     }
 }
