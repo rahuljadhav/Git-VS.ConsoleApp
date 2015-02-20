@@ -13,6 +13,7 @@ namespace Git_VS.ConsoleApp
             Console.WriteLine("Hello World !!!!");
             Console.WriteLine("This is my first Git Program");
             Console.WriteLine("This is issue 1");
+            Console.WriteLine("This is issue 2");
         }
 
         public string GetStr()
