@@ -11,6 +11,7 @@ namespace Git_VS.ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World !!!!");
+            Console.WriteLine("This is issue 1");
         }
     }
 }
