@@ -15,6 +15,7 @@ namespace Git_VS.ConsoleApp
             Console.WriteLine("This is issue 2");
             Console.WriteLine("This is issue 3");
             Console.WriteLine("This is issue 4");
+            Console.WriteLine("This is issue 5");
         }
     }
 }
