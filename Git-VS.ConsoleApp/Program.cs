@@ -12,6 +12,7 @@ namespace Git_VS.ConsoleApp
         {
             Console.WriteLine("Hello World !!!!");
             Console.WriteLine("This is issue 1");
+            Console.WriteLine("This is issue 2");
         }
     }
 }
