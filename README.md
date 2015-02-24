@@ -12,6 +12,6 @@ http://localhost:8080/job/GitSampleProject/badge/icon
 
 http://localhost:8080/buildStatus/icon?job=GitSampleProject
 
-<a href='http://localhost:8080/job/GitSampleProject/'><img src='http://localhost:8080/job/GitSampleProject/badge/icon'></a>
+<a href='http://52.10.143.63:8080/job/GitSampleProject/'><img src='http://52.10.143.63:8080/job/GitSampleProject/badge/icon'></a>
 
-<a href='http://localhost:8080/job/GitSampleProject/'><img src='http://localhost:8080/buildStatus/icon?job=GitSampleProject'></a>
+<a href='http://52.10.143.63:8080/job/GitSampleProject/'><img src='http://52.10.143.63:8080/buildStatus/icon?job=GitSampleProject'></a>
