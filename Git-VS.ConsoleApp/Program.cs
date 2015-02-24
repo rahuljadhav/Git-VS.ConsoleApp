@@ -24,7 +24,7 @@ namespace Git_VS.ConsoleApp
 
         public string GetStr()
         {
-            return "Hello St
+            return "Hello Str";
         }
 
         public int GetInt()
