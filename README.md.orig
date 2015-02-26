@@ -1,0 +1,39 @@
+# Git-VS.ConsoleApp
+
+This is first testing application
+
+This is a console app
+<<<<<<< HEAD
+# Git-VS.ConsoleApp
+=======
+>>>>>>> c81f6d1e144513dc38d808e2dc1665589bb14f46
+
+This is first testing application
+
+This is a console app
+
+<<<<<<< HEAD
+=======
+http://localhost:8080/job/GitSampleProject/badge/icon
+
+http://localhost:8080/buildStatus/icon?job=GitSampleProject
+
+<a href='http://52.10.143.63:8080/job/GitSampleProject/'><img src='http://52.10.143.63:8080/job/GitSampleProject/badge/icon'></a>
+
+<a href='http://52.10.143.63:8080/job/GitSampleProject/'><img src='http://52.10.143.63:8080/buildStatus/icon?job=GitSampleProject'></a>
+
+Markdown
+[![Build Status](http://localhost:8080/job/GitSampleProject/badge/icon)](http://localhost:8080/job/GitSampleProject/)
+
+[![Build Status](http://localhost:8080/buildStatus/icon?job=GitSampleProject)](http://localhost:8080/job/GitSampleProject/)
+
+Confluence
+[!http://localhost:8080/job/GitSampleProject/badge/icon!|http://localhost:8080/job/GitSampleProject/]
+
+[!http://localhost:8080/buildStatus/icon?job=GitSampleProject!|http://localhost:8080/job/GitSampleProject/]
+
+XWiki
+[[image:http://localhost:8080/job/GitSampleProject/badge/icon>>http://localhost:8080/job/GitSampleProject/||target='__new']]
+
+[[image:http://localhost:8080/buildStatus/icon?job=GitSampleProject>>http://localhost:8080/job/GitSampleProject/||target='__new']]
+>>>>>>> c81f6d1e144513dc38d808e2dc1665589bb14f46

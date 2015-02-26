@@ -43,5 +43,10 @@ namespace Git_VS.ConsoleApp
         {
             return 10;
         }
+
+        public double[] GetDoubleValueArray()
+        {
+            return new double[] {10, 10};
+        }
     }
 }
