@@ -9,11 +9,11 @@ This is first testing application
 
 This is a console app
 
-http://52.10.143.63:8080/job/GitSampleProject/badge/icon
+http://52.10.189.47:8080/job/GitSampleProject/badge/icon
 
-http://52.10.143.63:8080/buildStatus/icon?job=GitSampleProject
+http://52.10.189.47:8080/buildStatus/icon?job=GitSampleProject
 
-<a href='http://52.10.143.63:8080/job/GitSampleProject/'><img src='http://52.10.143.63:8080/job/GitSampleProject/badge/icon'></a>
+<a href='http://52.10.189.47:8080/job/GitSampleProject/'><img src='http://52.10.189.47:8080/job/GitSampleProject/badge/icon'></a>
 
 <a href='http://52.10.143.63:8080/job/GitSampleProject/'><img src='http://52.10.143.63:8080/buildStatus/icon?job=GitSampleProject'></a>
 
