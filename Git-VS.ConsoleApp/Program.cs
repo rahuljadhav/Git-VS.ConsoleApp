@@ -23,6 +23,7 @@ namespace Git_VS.ConsoleApp
             Console.WriteLine("This is issue 9");
             Console.WriteLine("This is issue 10");
             Console.WriteLine("This is issue 11");
+            Console.WriteLine("This is issue 11");
         }
 
         public string GetStr()
