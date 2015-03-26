@@ -30,7 +30,8 @@ namespace Git_VS.ConsoleApp
 
         public string GetStr()
         {
-            return "Hello Str";
+            var a = "Hello";
+            return a;
         }
 
         public int GetInt()
